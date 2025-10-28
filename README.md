@@ -3,7 +3,7 @@
 J’ai perfectionné mes connaissances sur RSA, mais je ne suis pas sûr que ma manière creuse de générer les nombres soit intelligente. Vous confirmez ?
 
 
-Auteurs : Maxime / [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : Maxime / [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [AdveRSArial Crypto (Baby)](https://hackropole.fr/fr/challenges/crypto/fcsc2024-crypto-adversarial-crypto-2/)
 
